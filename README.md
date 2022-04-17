@@ -1,6 +1,6 @@
 # zoom_audio_mod
 
-Speed up (x1.5), delete silent part longer than 2 sceconds, and concatenate Zoom audio files on Mac
+Speed up (x1.5), delete silent part longer than 2 sceconds, and concatenate Zoom audio files on Mac.
 
 ## How to use
 
